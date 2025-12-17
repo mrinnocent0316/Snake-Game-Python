@@ -1,7 +1,7 @@
 # Snake Game (Python)
 
 ## Description
-A classic Snake game implemented in Python using object-oriented programming. The game supports real-time user input, collision detection, scoring, and game-over logic.
+A classic Snake game implemented in Python using Turtle Graphics and object-oriented programming. The game supports real-time user input, collision detection, scoring, and game-over logic.
 
 ## Features
 - Snake movement using keyboard controls
@@ -9,6 +9,11 @@ A classic Snake game implemented in Python using object-oriented programming. Th
 - Collision detection with walls and snake body
 - Score tracking and game-over conditions
 - Modular OOP-based design
+
+## Technologies Used
+- Python
+- Turtle Graphics
+- Object-Oriented Programming
 
 ## Files
 - `main.py` – Entry point of the game
