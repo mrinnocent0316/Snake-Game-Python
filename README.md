@@ -24,3 +24,6 @@ A classic Snake game implemented in Python using Turtle Graphics and object-orie
 ## How to Run
 ```bash
 python main.py
+
+<br>
+Author - Guna (IIT ISM Dhanbad)
